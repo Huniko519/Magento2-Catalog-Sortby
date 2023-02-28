@@ -3,6 +3,9 @@
 
 #### This module helps the store admin to add three more catalog sorting options i.e. "Sorting by Popularity" and "Sorting by Rating" and "Sorting by Price". These are three most popular sorting options found on most of the stores now a days.
 
+## Install:
+<code>composer require huniko519/magento2-catalog-sortby</code>
+___________________________________________________________________________________________________
 ## Features:
 1. Easy to use
 2. Looks like core functionality of Magento (at backend as well as frontend)
